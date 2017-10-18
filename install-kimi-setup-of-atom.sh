@@ -23,6 +23,10 @@ apm install script
 apm install linter
 apm install linter-ui-default
 
+# Java
+apm install autocomplete-java
+apm install linter-javac
+
 # ES language
 apm install language-babel
 
